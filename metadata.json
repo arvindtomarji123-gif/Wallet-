@@ -1,0 +1,7 @@
+{
+  "name": "WalletWise - Expense Tracker",
+  "description": "A modern, mobile-first manual wallet tracker for personal finance management with visual insights and smart categorization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
